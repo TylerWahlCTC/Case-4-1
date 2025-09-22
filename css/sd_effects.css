@@ -6,20 +6,26 @@
    Case Problem 1
    
    Star Dust Stories Design Styles
-   Author: 
-   Date:      
+   Author: Tyler and Lucas
+   Date: September 22, 2025
 
    Filename: sd_effects.css
 
 */
 
 /* HTML Styles */
-
-
+/*fix later */
+html {
+   background: url(../imgs/sd_back1.png) 100% / cover no-repeat;
+}
 
 /* Body Styles */
 
-
+body {
+   background: url(../imgs/sd_back2.png),
+   radial-gradient(white 15%, rgba(151, 151, 151, 0.5) 50%)
+                  closest-corner;
+}
 
 
 /* Navigation List Styles */
